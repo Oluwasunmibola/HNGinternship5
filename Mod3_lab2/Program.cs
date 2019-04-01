@@ -10,8 +10,8 @@ namespace Mod3_lab2
     {
         static void Main(string[] args)
         {
-            //int first = 9;
-            //int second = 0;
+            int first = 9;
+            int second = 0;
 
             //Console.WriteLine("Enter first number: ");
             //first = Int32.Parse(Console.ReadLine());
@@ -23,7 +23,7 @@ namespace Mod3_lab2
             //Console.WriteLine($"The result of dividing {first} and {second} is {result}");
 
             GetStudentInformation();
-            PrintStudentDetails();
+            
           
         }
 
